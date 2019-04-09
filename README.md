@@ -12,3 +12,4 @@ Changelog:
 
 Linux SHA256: 71b9391962183427b546db752593f0377c76df4c05af97d2a85b40412186689b  Linux-cloakcoin-2.2.2.1.zip
 Windows SHA256: 07829e4656c99799ce2c2483e4623b13af22375608f6a0b6d4e59bc8ada954de Windows-cloakcoin-2.2.2.1.zip
+MacOS SHA256: 509b9c729d4f086df4daa08dd5dd48c6b9a7fb422cdca927abd9adf86b1064af  OSX-cloakcoin-2.2.2.1.zip
